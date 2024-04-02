@@ -1,0 +1,5 @@
+# landing-page
+
+## Home
+- Brief welcome content
+- Some image content
