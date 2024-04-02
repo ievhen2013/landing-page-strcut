@@ -1,0 +1,29 @@
+commit 5856423e9b380d9aeb9b278a0ded87ccf1e8df6d
+Author: Butikov Ievhen <kyrylb2013@gmail.com>
+Date:   Tue Apr 2 11:29:11 2024 +0300
+
+     add file tgz changed file
+
+commit 1612790b3f7e3b9ba5e0e40f705a6ab3e257b6e6
+Author: Butikov Ievhen <kyrylb2013@gmail.com>
+Date:   Tue Apr 2 11:17:43 2024 +0300
+
+    add content
+
+commit 62e7aa8bca6c16d4bafa96bbedb442d693c8f345
+Author: Butikov Ievhen <kyrylb2013@gmail.com>
+Date:   Tue Apr 2 11:16:01 2024 +0300
+
+    add About us
+
+commit 760f7f5c61f33c5a69ceaf380d6aec69322f8ecc
+Author: Butikov Ievhen <kyrylb2013@gmail.com>
+Date:   Tue Apr 2 11:13:23 2024 +0300
+
+    add Home
+
+commit 708c4af600c83b67730fadc72815a8cb4ec4b88a
+Author: Butikov Ievhen <kyrylb2013@gmail.com>
+Date:   Tue Apr 2 11:04:57 2024 +0300
+
+     add file readmy
